@@ -5,7 +5,7 @@ This project was done during a the Covid-19 Pandemic where I came up with creati
 #### To watch the demonstration of the app, please checkout: <Link to be added>
 
 
-![1](https://user-images.githubusercontent.com/36654439/106354188-cfd33b00-62bd-11eb-9e5e-fcd4cdc578de.PNG)
-![2](https://user-images.githubusercontent.com/36654439/106354189-d1046800-62bd-11eb-84e4-22e0a8bae0e0.PNG)
+<p align = "center"><img src = "https://user-images.githubusercontent.com/36654439/106354188-cfd33b00-62bd-11eb-9e5e-fcd4cdc578de.PNG" width = "400">
+<img src ="https://user-images.githubusercontent.com/36654439/106354189-d1046800-62bd-11eb-84e4-22e0a8bae0e0.PNG" width = "350"></p>
 
 
